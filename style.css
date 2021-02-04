@@ -30,7 +30,7 @@ h2 {
 
 /* Header ===================== */
 header {
-    background: #6db1ff;
+    background:#136f99;
     padding: 2rem 0 10rem;
     text-align: center;
 }
@@ -74,7 +74,7 @@ header {
 }
 
 .card.total {
-    background: #76b5fc;
+    background:#4498be;
     color: white;
 }
 
